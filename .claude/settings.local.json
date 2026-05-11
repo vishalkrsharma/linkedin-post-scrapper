@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/vishal/projects/personal/linkedin-post-scrapper/scraper-service)"
+    ],
+    "additionalDirectories": [
+      "/home/vishal/projects/personal/linkedin-post-scrapper"
+    ]
+  }
+}
